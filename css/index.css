@@ -1,0 +1,20 @@
+.historia {
+    width: 60%;
+    margin: 0 auto;
+}
+
+.fotos {
+    margin: 10px 0;
+}
+
+.foto {
+    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    float: left;
+    width: 50%;
+    padding: 5px;
+}
+
+.foto img {
+    width: 100%;
+}
